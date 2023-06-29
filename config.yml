@@ -1,0 +1,4 @@
+baseURL: 'http://emmmali.github.io/portfolio/'
+languageCode: 'en-us'
+title: 'emma li'
+theme: 'hugo-PaperMod'

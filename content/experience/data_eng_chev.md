@@ -1,9 +1,8 @@
 ---
-title: "Data Engineering & ML Intern"
+title: "Data Engineering & ML Intern @ Chevron"
 # description: "Chevron - Houston, TX"
 draft: false
 tags: ["Python", "Linux", "Kubernetes", "Docker", "Azure", "Generative AI"]
 showToc: false
 ---
-Chevron - Houston, TX
 May 2023 - Present

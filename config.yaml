@@ -66,3 +66,8 @@ params:
       url: "https://github.com/emmmali"
     - name: "cv"
       url: "https://drive.google.com/file/d/160iEsqxkeFCEwki13O_CIEjI36_4kZPL/view?usp=sharing"
+
+  # Custom Favicon
+  assets:
+        favicon: "https://thenounproject.com/api/private/icons/1919183/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0"
+  

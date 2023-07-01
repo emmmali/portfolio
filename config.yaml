@@ -42,7 +42,7 @@ params:
     enabled: true
     title: "emma li"
     subtitle: "i'm emma and i'm a cs student @ rice university. i'm currently working as a data engineering / ml intern @ chevron and an ml researcher for education @ openstax. interested in data for social impact, machine learning and generative ai, cloud, and devops."
-    imageUrl: "home/glass_orb.jpg"
+    imageUrl: "home/glass_orb.jpeg"
     imageWidth: 220
     imageHeight: 220
     # buttons:

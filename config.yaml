@@ -3,39 +3,41 @@ languageCode: 'en-us'
 title: 'emma li'
 theme: 'PaperMod'
 
-# menu:
-#   main:
-#     - identifier: home
-#       name: Home
-#       url: /
-#       weight: 10
-#     - identifier: blog
-#       name: Blog
-#       url: /blog
-#       weight: 20
-#     - identifier: projects
-#       name: Projects
-#       url: /projects
-#       weight: 30
-#     - identifier: experience
-#       name: Experience
-#       url: /experience
-#       weight: 40
-#     - identifier: search
-#       name: Search
-#       url: /search
-#       weight: 50
+menu:
+  main:
+    # - identifier: home
+    #   name: Home
+    #   url: /
+    #   weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 20
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 30
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 40
+    - identifier: search
+      name: 🔎
+      url: /search
+      weight: 50
 
 params:
   # theme
   # showToc: true
   # TocOpen: false
-  # ShowBreadCrumbs: true
-  # ShowCodeCopyButtons: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+  hideMeta: false
   # hideMeta: false
 
   # for enchanced SEO
-  # env: production
+  env: production
 
   # Home Page
   profileMode:
@@ -70,4 +72,21 @@ params:
   # Custom Favicon
   assets:
         favicon: "https://thenounproject.com/api/private/icons/1919183/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0"
+
+  # Outputs for search
+  outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON # is necessary
+
+  # Fuse options for search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
   

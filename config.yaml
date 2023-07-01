@@ -21,10 +21,13 @@ menu:
       name: Blog
       url: /blog
       weight: 40
+    - name: Tags
+      url: tags/
+      weight: 50
     - identifier: search
       name: 🔎
       url: /search
-      weight: 50
+      weight: 60
 
 params:
   # theme

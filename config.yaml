@@ -71,6 +71,8 @@ params:
       url: "https://github.com/emmmali"
     - name: "cv"
       url: "https://drive.google.com/file/d/160iEsqxkeFCEwki13O_CIEjI36_4kZPL/view?usp=sharing"
+    - name: "other"
+      url: "https://read.cv/emmali"
 
   # Custom Favicon
   assets:

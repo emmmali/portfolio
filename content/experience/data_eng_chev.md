@@ -1,8 +1,8 @@
 ---
 title: "Data Engineering & ML Intern @ Chevron"
-# description: "May 2023 - Present"
+# description: "May 2023 - August 2023"
 draft: false
-tags: ["Python", "Linux", "Kubernetes", "Docker", "Azure", "Generative AI"]
+tags: ["Python", "Generative AI", "GPT", "Azure", "Linux", "Docker"]
 showToc: false
 ---
-May 2023 - Present
+May 2023 - August 2023

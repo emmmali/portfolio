@@ -46,7 +46,7 @@ params:
   profileMode:
     enabled: true
     title: "emma li"
-    subtitle: "i'm emma and i'm a cs student @ rice university. i'm currently working as a software engineering intern @ datadog on the metrics query team. previously, i worked as a data engineering / ml intern @ chevron and an ml researcher for education @ openstax. interested in building data and machine learning solutions at scale for social impact."
+    subtitle: "i'm emma and i'm a cs student @ rice university. i'm currently working as a software engineering intern @ linkedin on the linkedin sales solution team, helping create analyses for new generative AI features. previously, i worked as a software engineering intern @ datadog on the metrics query team, a data engineering / ml intern @ chevron and an ml researcher for education @ openstax. interested in building data and machine learning solutions at scale for social impact."
     imageUrl: "home/glass_orb.jpeg"
     imageWidth: 220
     imageHeight: 220

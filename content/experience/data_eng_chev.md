@@ -4,5 +4,6 @@ title: "Data Engineering & ML Intern @ Chevron"
 draft: false
 tags: ["Python", "Generative AI", "GPT", "Azure", "Linux", "Docker"]
 showToc: false
+weight: 4
 ---
 May 2023 - August 2023

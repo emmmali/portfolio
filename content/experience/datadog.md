@@ -4,5 +4,6 @@ title: "Software Engineering Intern @ Datadog"
 draft: false
 tags: ["Go", "Distributed Systems", "Kubernetes", "Query Optimization"]
 showToc: false
+weight: 2
 ---
 Jan 2024 - Apr 2024

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Query Optimization on emma li</title>
+    <link>http://emmmali.github.io/portfolio/tags/query-optimization/</link>
+    <description>Recent content in Query Optimization on emma li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://emmmali.github.io/portfolio/tags/query-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Engineering Intern @ Datadog</title>
+      <link>http://emmmali.github.io/portfolio/experience/datadog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://emmmali.github.io/portfolio/experience/datadog/</guid>
+      <description>Jan 2024 - Apr 2024</description>
+    </item>
+    
+  </channel>
+</rss>

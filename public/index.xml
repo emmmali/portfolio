@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>emma li</title>
+    <link>http://emmmali.github.io/portfolio/</link>
+    <description>Recent content on emma li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 00:39:02 -0500</lastBuildDate><atom:link href="http://emmmali.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Engineering Intern @ LinkedIn</title>
+      <link>http://emmmali.github.io/portfolio/experience/linkedin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://emmmali.github.io/portfolio/experience/linkedin/</guid>
+      <description>May 2024 - Present</description>
+    </item>
+    
+    <item>
+      <title>Mapping BakerRipley Census Data</title>
+      <link>http://emmmali.github.io/portfolio/projects/project/</link>
+      <pubDate>Sat, 01 Jul 2023 00:39:02 -0500</pubDate>
+      
+      <guid>http://emmmali.github.io/portfolio/projects/project/</guid>
+      <description>https://rpubs.com/emmmali/BakerRipleyCensusData</description>
+    </item>
+    
+    <item>
+      <title>Hi</title>
+      <link>http://emmmali.github.io/portfolio/blog/hi/</link>
+      <pubDate>Sat, 01 Jul 2023 00:38:28 -0500</pubDate>
+      
+      <guid>http://emmmali.github.io/portfolio/blog/hi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>http://emmmali.github.io/portfolio/blog/hello/</link>
+      <pubDate>Wed, 28 Jun 2023 22:29:04 -0500</pubDate>
+      
+      <guid>http://emmmali.github.io/portfolio/blog/hello/</guid>
+      <description>welcome to my site! hello hello hello</description>
+    </item>
+    
+    <item>
+      <title>Data Engineering &amp; ML Intern @ Chevron</title>
+      <link>http://emmmali.github.io/portfolio/experience/data_eng_chev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://emmmali.github.io/portfolio/experience/data_eng_chev/</guid>
+      <description>May 2023 - August 2023</description>
+    </item>
+    
+    <item>
+      <title>In-Class TA: COMP 140 (Computational Thinking in Python) @ Rice</title>
+      <link>http://emmmali.github.io/portfolio/experience/teaching_assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://emmmali.github.io/portfolio/experience/teaching_assistant/</guid>
+      <description>Aug 2022 - May 2023</description>
+    </item>
+    
+    <item>
+      <title>ML Researcher @ OpenStax</title>
+      <link>http://emmmali.github.io/portfolio/experience/openstax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://emmmali.github.io/portfolio/experience/openstax/</guid>
+      <description>August 2023 - December 2023</description>
+    </item>
+    
+    
+    <item>
+      <title>Software Engineering Intern @ Datadog</title>
+      <link>http://emmmali.github.io/portfolio/experience/datadog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://emmmali.github.io/portfolio/experience/datadog/</guid>
+      <description>Jan 2024 - Apr 2024</description>
+    </item>
+    
+  </channel>
+</rss>

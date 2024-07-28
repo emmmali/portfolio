@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Teaching on emma li</title>
+    <link>http://emmmali.github.io/portfolio/tags/teaching/</link>
+    <description>Recent content in Teaching on emma li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://emmmali.github.io/portfolio/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In-Class TA: COMP 140 (Computational Thinking in Python) @ Rice</title>
+      <link>http://emmmali.github.io/portfolio/experience/teaching_assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://emmmali.github.io/portfolio/experience/teaching_assistant/</guid>
+      <description>Aug 2022 - May 2023</description>
+    </item>
+    
+  </channel>
+</rss>

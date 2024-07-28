@@ -4,5 +4,6 @@ title: "Software Engineering Intern @ LinkedIn"
 draft: false
 tags: ["Python", "Spark", "Scala", "SQL", "Generative AI"]
 showToc: false
+weight: 1
 ---
 May 2024 - Present

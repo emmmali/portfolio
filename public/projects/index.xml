@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on emma li</title>
+    <link>http://emmmali.github.io/portfolio/projects/</link>
+    <description>Recent content in Projects on emma li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 00:39:02 -0500</lastBuildDate><atom:link href="http://emmmali.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping BakerRipley Census Data</title>
+      <link>http://emmmali.github.io/portfolio/projects/project/</link>
+      <pubDate>Sat, 01 Jul 2023 00:39:02 -0500</pubDate>
+      
+      <guid>http://emmmali.github.io/portfolio/projects/project/</guid>
+      <description>https://rpubs.com/emmmali/BakerRipleyCensusData</description>
+    </item>
+    
+  </channel>
+</rss>

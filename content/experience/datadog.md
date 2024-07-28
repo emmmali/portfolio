@@ -5,4 +5,4 @@ draft: false
 tags: ["Go", "Distributed Systems", "Kubernetes", "Query Optimization"]
 showToc: false
 ---
-Jan 2024 - Present
+Jan 2024 - Apr 2024
